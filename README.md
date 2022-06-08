@@ -1,1 +1,1 @@
-# Class-175-Project
+# PRO-C175-Student-Boilerplate
